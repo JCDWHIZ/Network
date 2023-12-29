@@ -14,6 +14,7 @@ def data_plans(num):
         7.Family packs
         8.Hot Deals
         9.Free Youtube
+        Deals
         10.Manage Data
         0.Back
         ''')
